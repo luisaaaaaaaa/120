@@ -1,0 +1,47 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size:30px;
+  }
+  .headingDiv
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float:none ;
+    padding:10px ;
+  }
+  .headingDiv2
+  {
+    font-size: 18px ;
+  }
+  .resultToTag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ h3{
+
+  font-size:30px;
+ }
+ .resultToTag spam{
+  white-space: pré-line;
+ }
+ .copyRightFooter{
+  position:fixed ;
+  color: rgb(203, 255, 202);
+  bottom: 0;
+  width:100% ;
+  background-color:green ;
+  line-height:3 ;
+  text-align:center ;
+ }
+ canvas{
+  border:5px solid greenyellow ;
+  border-radius:20px ;
+  margin-top:160px ;
+  box-shadow:5px 5px 5px grey ;
+ }
